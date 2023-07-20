@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Java Projects</b>
+- <b>Java</b>
   - [Inventory System](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Java Application](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>C++</b>
