@@ -9,4 +9,4 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Gas Price Predictor (Machine Learning Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>C++</b>
-  - [Class Roster](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Class Roster](https://github.com/NabeelAref98/clssrstr)
