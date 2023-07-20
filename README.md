@@ -4,7 +4,7 @@
 
 - <b>Java</b>
   - [Inventory System](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Java Application](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Scheduling Application (Java GUI Application Demo)](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Gas Price Predictor (Machine Learning Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
