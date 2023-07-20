@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nabeel! <br/><a href="https://github.com/joshmadakor1">Bachelor of Computer Science</a></h1>
+<h1>Hi, I'm Nabeel Aref! <br/><a href="https://github.com/joshmadakor1">Bachelor of Computer Science</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
 
