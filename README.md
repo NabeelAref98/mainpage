@@ -9,4 +9,4 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/NabeelAref98/WGUPSwork)
   - [Gas Price Predictor (Machine Learning Demo)](https://github.com/NabeelAref98/capstone/tree/main)
 - <b>C++</b>
-  - [Class Roster](https://github.com/NabeelAref98/clssrstr)
+  - [Class Roster (C++ Demo)](https://github.com/NabeelAref98/clssrstr)
