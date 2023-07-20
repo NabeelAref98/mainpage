@@ -6,7 +6,7 @@
   - [Inventory Management System (Java GUI Application Demo)](https://github.com/NabeelAref98/invappjava)
   - [Scheduling Application (Java GUI Application Demo)](https://github.com/NabeelAref98/javaguiapp.git)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/NabeelAref98/WGUPSwork)
   - [Gas Price Predictor (Machine Learning Demo)](https://github.com/NabeelAref98/capstone/tree/main)
 - <b>C++</b>
   - [Class Roster](https://github.com/NabeelAref98/clssrstr)
